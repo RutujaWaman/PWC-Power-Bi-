@@ -7,10 +7,10 @@ In the simulation I:
 •Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
 Skills:
-Calculating Measures 
+Calculating Measures
 Defining KPI's
 Insight and Action 
- Power BI ( DASHBOARD) 
+Power BI ( DASHBOARD) 
 Self-Reflection
 
 It was incredibly useful to learn about how to use PowerBI more effectively.
