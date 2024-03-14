@@ -1,4 +1,4 @@
-# PWC-Power-Bi-
+# PWC-Power-Bi-JobSimulation
 PwC Switzerland Power BI Job Simulation on Forage - March 2024
 
 In the simulation I:
